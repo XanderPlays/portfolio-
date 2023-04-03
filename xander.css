@@ -1,0 +1,24 @@
+* {
+    margin: 0x;
+    padding: 0px;
+}
+body {
+    background-color: darkgrey;
+}
+img {
+    height: 400px;
+    width: 400px;
+    clip-path: ellipse(50% 50% at 50% 50%);
+}
+.lamas {
+    text-decoration: underline;
+   padding: 0 40px;
+   font-size: 40px;
+   letter-spacing: 5px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+li {
+    list-style: none;
+    font-size: 20px;
+}
+

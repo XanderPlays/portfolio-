@@ -1,0 +1,13 @@
+img {
+    height: 300px;
+    width: 300px;
+    padding-left: 30px;
+}
+body {
+    background-color: pink;
+    text-align: center;
+}
+li a {
+    text-decoration: none;
+    list-style: none;
+}
